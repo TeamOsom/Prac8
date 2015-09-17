@@ -2,8 +2,13 @@ list of members
 
 mem 1
 
+details about member 1
+
+role in project
+
 memb 2
 
 membe 3
 
 member 4
+
